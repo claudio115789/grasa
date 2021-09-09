@@ -1,5 +1,0 @@
-[09-Sep-2020 01:06:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/u241268151/public_html/upload/adm/conexao.php:2
-Stack trace:
-#0 /home/u241268151/public_html/upload/adm/valida_login.php(5): include_once()
-#1 {main}
-  thrown in /home/u241268151/public_html/upload/adm/conexao.php on line 2
